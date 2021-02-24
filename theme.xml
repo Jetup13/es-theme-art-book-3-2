@@ -18,6 +18,7 @@ license:        creative commons CC-BY-NC-SA
       </helpsystem>
       <image name="logo">
          <path>./_inc/systems/${system.theme}.svg</path>
+		 <path>./_inc/systems/${system.theme}.png</path>
       </image>
       <text name="logoText">
          <fontPath>${logoFont}</fontPath>
@@ -31,7 +32,6 @@ license:        creative commons CC-BY-NC-SA
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
-
          <tile>true</tile>
          <zIndex>1</zIndex>
          <color>111111</color>
