@@ -85,7 +85,7 @@ license:        creative commons CC-BY-NC-SA
          <pos>0.05 0.335</pos>
          <size>0.9 0.64</size>
          <alignment>center</alignment>
-         <lineSpacing>1.81</lineSpacing>
+         <lineSpacing>1.5</lineSpacing>
          <fontSize>0.04</fontSize>
          <scrollSound>./_inc/sounds/select.wav</scrollSound>
          <fontPath>${bodyFont}</fontPath>
